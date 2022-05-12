@@ -4,7 +4,7 @@
 - Sou fã de Naruto.
 - Gosto muito de futebol.
 - Apesar de morar em MG, eu torço pro Santos.
-- Gosto muito de ficção científica.
+- Sou apaixonado por ficção científica.
 
 Aqui no meu Git você irá encontrar meus projetos diários, de estudo ou finalizados, enjoy! :>
 
