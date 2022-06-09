@@ -16,8 +16,8 @@ Aqui no meu Git você irá encontrar meus projetos diários, de estudo ou finali
 <br>
 
 <a href="https://github.com/bobjoe159/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats](https://github-readme-stats.vercel.app/api?username=bobjoe159&show_icons=true&theme=radical&layout=compact)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobjoe159&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/bobjoe159/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=bobjoe159&show_icons=true&theme=radical)" />
+<a href="https://github.com/bobjoe159/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bobjoe159&repo=convoychat" />
 </a>
