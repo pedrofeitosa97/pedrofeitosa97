@@ -10,4 +10,5 @@ Aqui no meu Git você irá encontrar meus projetos diários, de estudo ou finali
 
 📋 Atualmente estou estudando:
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobjoe159)](https://github.com/bobjoe159/github-readme-stats)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/>
