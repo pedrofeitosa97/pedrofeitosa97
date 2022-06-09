@@ -15,6 +15,6 @@ Aqui no meu Git você irá encontrar meus projetos diários, de estudo ou finali
 <br>
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobjoe159&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bobjoe159&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bobjoe159&show_icons=true&theme=radical)](https://github.com/bobjoe159/github-readme-stats)
 
