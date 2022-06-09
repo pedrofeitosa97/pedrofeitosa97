@@ -3,7 +3,7 @@
 ✨ Curiosidades:
 - Sou fã de Naruto.
 - Gosto muito de futebol.
-- Apesar de morar em MG, eu torço pro Santos. <img width = "50" src = "https://i.pinimg.com/originals/2c/07/8c/2c078c673f6ec2b98116b90ebe14a81f.png">
+- Apesar de morar em MG, eu torço pro Santos. <img width = "20" src = "https://i.pinimg.com/originals/2c/07/8c/2c078c673f6ec2b98116b90ebe14a81f.png">
 - Sou apaixonado por ficção científica.
 
 Aqui no meu Git você irá encontrar meus projetos diários, de estudo ou finalizados, enjoy! :>
