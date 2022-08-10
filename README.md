@@ -32,6 +32,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobjoe159&amp;layout=compact&amp;langs_count=7&amp;theme=dracula&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="right">
 </a>
 </div>
+<br>
 
 <br>
 
