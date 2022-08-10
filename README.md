@@ -5,11 +5,11 @@
  <h1 align="center">✨ Curiosidades sobre mim: </h1>
 <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" width="400px" style="max-width: 100%;"></a>
-    <div align="left" dir="auto"><br>
+    <div align="left" dir="auto"><br><br><br>
 	<p dir="auto"><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">🍥</g-emoji> Sou fã de <strong>Naruto</strong>.</p>
-        <p dir="auto"><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🏀</g-emoji> Gosto muito de Futebol & Basquete.</p>
+        <p dir="auto"><g-emoji class="g-emoji" alias="brain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9e0.png">🏀</g-emoji> Gosto muito de <strong>Futebol & Basquete.</strong></p>
         <p dir="auto"><g-emoji class="g-emoji" alias="books" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4da.png">⚽</g-emoji> Apesar de morar em MG, eu torço pro <strong>Santos.</strong></p><p dir="auto">
-        </p><p dir="auto"><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">👽</g-emoji> Sou apaixonado por ficção científica.</p>
+        </p><p dir="auto"><g-emoji class="g-emoji" alias="love_letter" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48c.png">👽</g-emoji> Sou apaixonado por <strong>ficção científica.</strong></p>
         <p align="left" dir="auto">
 	<a href="https://www.linkedin.com/in/pedrohenriquefeitosa/" rel="nofollow">
 	<img src="https://camo.githubusercontent.com/c00f87aeebbec37f3ee0857cc4c20b21fefde8a96caf4744383ebfe44a47fe3f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d2532333030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>
