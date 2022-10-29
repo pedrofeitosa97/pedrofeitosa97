@@ -1,6 +1,6 @@
 <h1 align="center">Olá, seja bem vindo ao meu perfil 😜</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bobjoe159&color=red" alt"Profile Views"/> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofeitosa97&color=red" alt"Profile Views"/> </p>
  •👋 Meu nome é Pedro Henrique, moro em Belo Horizonte-MG, sou estudante de <strong>Sistemas de Informação</strong> e estudo <strong>Desenvolvimento Web</strong>, focado no Front-End.
  <h1 align="center">✨ Curiosidades sobre mim: </h1>
 <div dir="auto">
