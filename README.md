@@ -27,16 +27,16 @@
 <h1 align="left" dir="auto"><a id="user-content-github-analytics-️" class="anchor" href="#github-analytics-️" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>GitHub Analytics <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji></h1>
 
 <div align="center" dir="auto">
-  <a href="https://github.com/bobjoe159">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bobjoe159&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="left">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bobjoe159&amp;layout=compact&amp;langs_count=7&amp;theme=dracula&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="right">
+  <a href="https://github.com/pedrofeitosa97">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pedrofeitosa97&amp;show_icons=true&amp;theme=dracula&amp;include_all_commits=true&amp;count_private=true&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="left">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrofeitosa97&amp;layout=compact&amp;langs_count=7&amp;theme=dracula&amp;title_color=8844EE&amp;icon_color=8844EE&amp;border_color=8844EE" style="max-width: 100%;" align="right">
 </a>
 </div>
 <br>
 <br>
 
-<div align="center" dir="auto"><a href="https://github.com/bobjoe159">
+<div align="center" dir="auto"><a href="https://github.com/pedrofeitosa97">
 <img src="https://camo.githubusercontent.com/0850a9b90bf720b08cafe764aea52d8cf2cc7048d4f8080297e8988b76bb08b8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f61642f76313632303638393937392f36383734373437303733336132663266363932653730363936653639366436373265363336663664326636663732363936373639366536313663373332663633333632663333333332663633333232663633333633333333363333323330363536343635333833323636333036353330363336353634333736343335333733303634363236353333363133313636333332653637363936365f796a756832732e676966" alt="image" style="max-width: 100%;"></p>
 <h1 dir="auto"><a id="user-content-total-de-visitas-" class="anchor" href="#total-de-visitas-" aria-hidden="true"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Total de Visitas <g-emoji class="g-emoji" alias="mag_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png">🔎</g-emoji></h1>
-	<img src="https://profile-counter.glitch.me/bobjoe159/count.svg" style="max-width: 100%;">
+	<img src="https://profile-counter.glitch.me/pedrofeitosa97/count.svg" style="max-width: 100%;">
 </div>
