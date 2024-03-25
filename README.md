@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem vindo ao meu perfil 😜</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrofeitosa97&color=red" alt"Profile Views"/> </p>
- •👋 Meu nome é Pedro Henrique, moro em Belo Horizonte-MG, sou estudante de <strong>Sistemas de Informação</strong> e estudo <strong>Desenvolvimento Web FullStack</strong>, tenho certificado de Desenvolvedor Front-End e atualmente estou me especializando em back-end.
+ •👋 Meu nome é Pedro Henrique, moro em Belo Horizonte-MG, sou estudante de <strong>Sistemas de Informação</strong>, sou <strong>Desenvolvedor Web FullStack</strong>, atualmente estou me especializando em back-end.
  <h1 align="center">✨ Curiosidades sobre mim: </h1>
 <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"><img align="right" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Imagem" width="400px" style="max-width: 100%;"></a>
